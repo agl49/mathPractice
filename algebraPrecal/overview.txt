@@ -1,0 +1,279 @@
+Idea Overview List (random order):
+
+x - double angle and half angle formulas
+x - product to sum formulas 
+x - Induction: Series & induction
+x - Sum of n squares
+x - Component form of vectors: Vectors
+x - Adding vectors in magnitude & direction form: Vectors
+x - Applications of vectors
+x - sum to product formulas
+x - right triangle trigonometry
+x - law of sines
+x - law of cosines
+x - area of triangle
+x - simple harmonic motion 
+x - damped motion 
+x - combining wabes
+x - polar coordinates
+x - polar equations and graphs
+x - complex plain
+x - de moivre's theorem
+x - vectors
+x - Vector basics: Vectors
+x - Magnitude of vectors: Vectors
+x - Scalar multiplication: Vectors
+x - Vector addition & subtraction: Vectors
+x - Combined vector operations
+x - Unit vectors: Vectors
+x - Magnitude & direction form of vectors: Vectors
+x - the dot product
+x - vectors in space 
+x - cross product
+x - conics 
+x - parabola
+x - synthetic division
+x - rational expressions
+x - What are the imaginary numbers?
+x - The complex plane
+x - Multiplying complex numbers
+x - functions and graphs
+x - distance and midpoint formulas
+x - slope
+x - piecewise-define functionslinear and quadratic functions
+x - building linear models from data
+x - polynomial and rational functions
+x - factor theorems
+x - fundamental theorem of algebra
+x - exponential functions
+x - logarithmic functions
+x - composite functions
+x - inverse functions
+x - financial models
+x - Exponential growth
+x - decay models
+x - trigonometric functions
+x - unit circle 
+x - sine cosine functions graphs
+x - tangent 
+x - cotangent
+x - cosecant
+x - secant
+x - Foci of a hyperbola
+x - Standard equation of a circle
+x - ellipse
+x - graphs
+x - phase shift
+x - sinusoidal curve fitting
+x - trigonometric functions
+x - trigonometric identities
+x - sum and difference formulas
+x - analytic trigonometry
+x - hyperbola
+x - rotation of axes; General form of a conic 
+x - polar equations of conics 
+x - plane curves and paramentics equations
+x - systems of linear equations
+x - systems of linear equations: matrices 
+x - system of linear equations: determinants
+x - matric algebra
+x - partial fraction decomposition
+x - systems of nonlinear equationssystem of inequalities
+x - linear programming
+x - sequences
+x - arithmetic sequences
+x - geometric sequences; geometric series
+x - mathematical induction
+x - the binomial theorem
+x - counting
+x - permutations and combinations
+x - probability 
+x - limits with tables and graphs
+x - algebra techs for finding limits
+x - one isded limits; countinuous functions
+x - the tangent problem; derivative
+x - the area problem; the integral
+x - sets
+x - pythagorean theorem and its converse
+x - polynomials
+x - monomials 
+x - factor polynomials
+x - complete the square
+x - Foci of an ellipse
+x - Basic sigma notation
+x - Advanced sigma notation: Series & induction
+x - Infinite geometric series
+x - Arithmetic series: Series & induction
+x - Geometric sequences: Series & induction
+x - Finite geometric series: Series & induction
+x - Finite geometric series applications
+x - Infinite geometric series applications: Series & induction
+x - Deductive and inductive reasoning: Series & induction
+x - congruent triangles simular triangles
+
+Inital chunking (2-4 items):
+
+sets
+
+double angle and half angle formulas
+
+product to sum formulas 
+
+sequences
+arithmetic sequences
+geometric sequences; geometric series
+Induction: Series & induction
+
+Sum of n squares
+
+vectors
+Vector basics: Vectors
+Magnitude of vectors: Vectors
+Scalar multiplication: Vectors
+
+Component form of vectors: Vectors
+Adding vectors in magnitude & direction form: Vectors
+Applications of vectors
+Vector addition & subtraction: Vectors
+
+Combined vector operations
+Unit vectors: Vectors
+Magnitude & direction form of vectors: Vectors
+vectors in space 
+
+sum to product formulas
+
+right triangle trigonometry
+
+trigonometric functions
+trigonometric identities
+analytic trigonometry
+
+law of sines
+law of cosines
+
+sine
+cosine
+tangent
+
+cotangent
+cosecant
+secant
+
+sine cosine functions graphs
+sinusoidal curve fitting
+
+area of triangle
+
+simple harmonic motion 
+damped motion 
+
+combining
+counting 
+permutations and combinations
+probability 
+
+polar coordinates
+polar equations and graphs
+Standard equation of a circle
+
+complex plain
+The complex plane
+
+de moivre's theorem
+
+the dot product
+cross product
+
+conics 
+parabola
+ellipse
+rotation of axes; General form of a conic 
+
+polar equations of conics 
+
+synthetic division
+rational expressions
+
+What are the imaginary numbers?
+
+Multiplying complex numbers
+
+graphs
+functions
+
+distance and midpoint formulas
+slope
+
+piecewise-define functions
+
+linear and quadratic functions   
+building linear models from data
+polynomial and rational functions
+fundamental theorem of algebra
+
+factor theorems
+
+exponential functions
+logarithmic functions
+composite functions
+inverse functions
+
+financial models
+Exponential growth
+decay models
+
+unit circle 
+plane curves and paramentics equations
+
+Foci of a hyperbola
+hyperbola
+
+phase shift
+
+sum and difference formulas
+
+systems of linear equations
+systems of linear equations: matrices 
+system of linear equations: determinants
+matric algebra
+
+partial fraction decomposition
+
+systems of nonlinear equations
+system of inequalities
+
+linear programming
+
+mathematical induction
+
+the binomial theorem
+
+limits with tables and graphs
+algebra techs for finding limits
+one isded limits; countinuous functions
+
+the tangent problem; derivative
+the area problem; the integral
+
+pythagorean theorem and its converse
+
+polynomials
+monomials 
+factor polynomials
+complete the square
+
+Foci of an ellipse
+Basic sigma notation
+
+Advanced sigma notation: Series & induction
+Infinite geometric series
+Arithmetic series: Series & induction
+Geometric sequences: Series & induction
+
+Finite geometric series: Series & induction
+Finite geometric series applications
+Infinite geometric series applications: Series & induction
+Deductive and inductive reasoning: Series & induction
+
+congruent triangles simular triangles
